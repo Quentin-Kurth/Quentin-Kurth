@@ -1,8 +1,5 @@
 ### Build and Fixing Networks
 
-
-![Widged Rock light](https://nd-fm.de/widget/v1?stream=rock&theme=light)
-
 ![Widged Rock Dark](https://nd-fm.de/widget/v1?stream=rock&theme=dark)
 
 <!--
