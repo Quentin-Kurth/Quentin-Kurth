@@ -1,4 +1,8 @@
-### Hi there 👋
+### Build and Fixing Networks
+
+https://nd-fm.de/widget/v1?stream=rock&theme=light
+
+https://nd-fm.de/widget/v1?stream=rock&theme=dark
 
 <!--
 **Quentin-Kurth/Quentin-Kurth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
